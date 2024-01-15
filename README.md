@@ -1,7 +1,7 @@
 <img width="1584" height="250" src="https://github.com/rajeev-cyber/rajeev-cyber/blob/238c25d79ebf814c6161dbaeed6638399e7227ae/2.jpg">
 <h1 align="center">Hi 👋, I'm Rajeev</h1>
 <h3 align="center">A passionate cyber security learner from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHMzZXJkeGd2M3RyNzQ4cXgxdzJpM2ZzdjFyZjc2OGN4YmZtNjF6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif">
+<img align="right" alt="GIF" width="400" src="https://www.silextechnology.com/hubfs/Blog_Images/1_ktMRyTnut5YK_0LoEJebUA.gif#keepProtocol">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeev-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="rajeev-cyber" /> </p>
@@ -11,6 +11,12 @@
 - 🌱 I’m currently learning **web development**
 
 - 📫 How to reach me **rajee1904098@gmail.com**
+- 🚀 Cyber Security enthusiast from India 🇮🇳
+- 🌐 GitHub contributor and advocate for open source collaboration
+- 🌟 Passionate about pushing the boundaries and fostering innovation
+- 📚 Advocate for cyber awareness and knowledge sharing
+- 🛡️ Code is my sword; algorithms are my shields  
+- 🚴‍♂️ Navigating the binary cosmos to fortify the digital bastions
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
