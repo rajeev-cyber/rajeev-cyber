@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajeev</h1>
 <h3 align="center">A passionate cyber security learner from India</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/glitch-hacker-metaverse-bJ4TVNYNUympPgcpem">
+<img align="right" alt="Coding" width="400" src="[https://giphy.com/gifs/glitch-hacker-metaverse-bJ4TVNYNUympPgcpem](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHMzZXJkeGd2M3RyNzQ4cXgxdzJpM2ZzdjFyZjc2OGN4YmZtNjF6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeev-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="rajeev-cyber" /> </p>
