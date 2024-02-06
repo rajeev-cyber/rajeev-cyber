@@ -1,4 +1,4 @@
-<img width="1584" height="250" src="https://github.com/rajeev-cyber/rajeev-cyber/blob/238c25d79ebf814c6161dbaeed6638399e7227ae/2.jpg">
+<img width="1584" height="250" src="./2.jpg">
 <h1 align="center">Hi 👋, I'm Rajeev</h1>
 <h3 align="center">A passionate cyber security learner from India</h3>
 <img align="right" alt="GIF" width="400" src="https://www.silextechnology.com/hubfs/Blog_Images/1_ktMRyTnut5YK_0LoEJebUA.gif#keepProtocol">
