@@ -1,5 +1,5 @@
 <img width="1584" height="250" src="./2.jpg">
-<h1 align="center">Hi 👋, I'm Rajeev</h1>
+<h1 align="center">Hi 👋, This is Rajeev</h1>
 <h3 align="center">A passionate cyber security learner from India</h3>
 <img align="right" alt="GIF" width="400" src="https://www.silextechnology.com/hubfs/Blog_Images/1_ktMRyTnut5YK_0LoEJebUA.gif#keepProtocol">
 
@@ -13,13 +13,9 @@
 - 📫 How to reach me **rajee1904098@gmail.com**
 - 🚀 Cyber Security enthusiast from India 🇮🇳
 - 🌐 GitHub contributor and advocate for open source collaboration
-- 🌟 Passionate about pushing the boundaries and fostering innovation
-- 📚 Advocate for cyber awareness and knowledge sharing
-- 🛡️ Code is my sword; algorithms are my shields  
-- 🚴‍♂️ Navigating the binary cosmos to fortify the digital bastions
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/rajeev-b9313b237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajeev-b9313b237/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/rajeev._.koli/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
