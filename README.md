@@ -1,5 +1,5 @@
 <img width="1584" height="250" src="./2.jpg">
-<h1 align="center">Hi 👋, This is Rajeev</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="50" height="50" /> This is Rajeev</h1>
 <h3 align="center">A passionate cyber security learner from India</h3>
 <img align="right" alt="GIF" width="400" src="https://www.silextechnology.com/hubfs/Blog_Images/1_ktMRyTnut5YK_0LoEJebUA.gif#keepProtocol">
 
