@@ -6,10 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeev-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="rajeev-cyber" /> </p>
 
-- 🔭 I’m currently working on **My Portfolio Website**
+- 🔭 I’m currently working on **Aegis Key**
 - 👨🏻‍💻 Ex-Intern at **Codesnag**
-- 🌱 I’m currently learning **React Language**
-
+- 🌱 I’m currently focusing on **Cybersecurity**
 - 📫 How to reach me **rajee1904098@gmail.com**
 - 🚀 Cyber Security enthusiast from India 🇮🇳
 - 🌐 GitHub contributor and advocate for open source collaboration
