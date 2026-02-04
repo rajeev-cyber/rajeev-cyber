@@ -1,4 +1,4 @@
-<img width="1584" height="250" src="file:///Users/Admin/Documents/PERSONAL%20DOC/LB2.png">
+<img width="1584" height="250" src="./LB2.png">
 <h1 align="center">Hii <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="50" height="50" />... This is Rajeev</h1>
 <h3 align="center">A passionate cyber security learner from India</h3>
 <img align="right" alt="GIF" width="400" src="https://www.silextechnology.com/hubfs/Blog_Images/1_ktMRyTnut5YK_0LoEJebUA.gif#keepProtocol">
@@ -9,7 +9,7 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="30" height="30" /> Passionately working in **CYBERSECURITY**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Ex-Intern at **BKT Tires**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Teacher%20Light%20Skin%20Tone.png" alt="Man Teacher Light Skin Tone" width="25" height="25" /> I’m currently focusing on **Cybersecurity**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /> How to reach me **rajee1904098@gmail.com**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /> How to reach me **officialrajeevkoli@gmail.com**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="25" height="25" /> Cyber Security enthusiast from India 🇮🇳
 - 🌐 GitHub contributor and advocate for open source collaboration
 
