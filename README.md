@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/rajeev-b9313b237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajeev-b9313b237/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/imrajeevkoli/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://www.x.com/rajeev__koli/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://www.x.com/rajeev__koli/" target="_blank"><img align="center" src="https://www.flaticon.com/free-icon/twitter_5968830?term=x&page=1&position=5&origin=tag&related_id=5968830" alt="Twitter" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rajeev__kohli/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="https://discord.com/channels/@blackwidow" target="_blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/Discord-Logo.png" alt="Discord" height="45" width="130" /></a>
 </p>
